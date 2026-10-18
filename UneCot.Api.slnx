@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="UneCont.Aplication/UneCont.Aplication.csproj" />
+    <Project Path="UneCont.Domain/UneCont.Domain.csproj" />
+    <Project Path="UneCont.Infraestructure/UneCont.Infraestructure.csproj" />
+  </Folder>
+  <Folder Name="/testes/">
+    <Project Path="UneCont.Test/UneCont.Test.csproj" />
+  </Folder>
+</Solution>
